@@ -18,7 +18,7 @@ Proyectos desarrollados durante 1º Semestre 2025 para asignatura Inteligencia A
     1. K-Means
     - Estrategias de inicialización: KMeans++, Random, MiniBatchKMeans
     2. DBSCAN
-    - Comparación de hiperparámetros.
+    - Comparación de hiperparámetros
 - Comparación de hiperparámetros y visualización de agrupamientos
   
 ## Enlaces adicionales (Notebooks hechos en Google Colab para mejor visualización con respectivos gráficos):
